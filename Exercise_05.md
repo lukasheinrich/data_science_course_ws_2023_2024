@@ -3,7 +3,7 @@
 
 ## Problem 1
 
-Consider a case, where instead of counting events, you are able to additionally measure for each event a discrete property with k possible values and associated probabilities $p_a\; a=1,\dots k$ and $\sum_{a=1}^{k}p_a = 1$.
+Consider a case, where instead of counting events, you are able to additionally measure for each event a discrete property with k possible values and associated probabilities $p_a\; a=1,\dots k$ and $\sum_a p_a = 1$.
 Derive the probability of observing $(n_1,\dots,n_k)$ events in each category given a total of n events.
 
 ## Problem 2
